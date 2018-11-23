@@ -15,3 +15,4 @@ CBNU Open Source Repo
 * hello to my friends
 * hello man
 * ETC...
+* hello this is english patch
